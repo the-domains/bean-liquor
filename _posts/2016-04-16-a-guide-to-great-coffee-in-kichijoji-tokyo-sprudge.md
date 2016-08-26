@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T21:36:46.819Z'
+datePublished: '2016-08-25T21:36:46.786Z'
 sourcePath: _posts/2016-04-16-a-guide-to-great-coffee-in-kichijoji-tokyo-sprudge.md
 inFeed: true
 isBasedOnUrl: 'http://sprudge.com/kichijoji-coffee-guide-96034.html'
@@ -35,7 +35,7 @@ author:
   - name: Elyse Bouvier
     url: 'http://sprudge.com/author/elyse-bouvier'
     avatar: {}
-dateModified: '2016-08-25T21:36:43.459Z'
+dateModified: '2016-08-25T21:36:44.013Z'
 title: 'A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge'
 app_links: []
 publisher:
