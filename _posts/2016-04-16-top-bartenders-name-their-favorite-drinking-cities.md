@@ -21,7 +21,7 @@ author:
   - name: Anastacia Uriegas
     url: 'https://www.thrillist.com/authors/anastacia-uriegas'
     avatar: {}
-dateModified: '2016-08-25T21:36:43.819Z'
+dateModified: '2016-08-25T21:36:44.249Z'
 title: Top Bartenders Name Their Favorite Drinking Cities
 app_links:
   - namespace: twitter
